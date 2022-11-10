@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest_for_6_3.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3rec\Laboratorna 6_3rec\Lab 6_3.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3rec\Laboratorna 6_3rec\Lab 6_3.cpp(31): warning C4715: 'find_maximum<int,int,int,int>': not all control paths return a value
+     Creating library C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3rec\x64\Debug\UnitTest_for_6_3.lib and object C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3rec\x64\Debug\UnitTest_for_6_3.exp
+  UnitTest_for_6_3.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_3rec\x64\Debug\UnitTest_for_6_3.dll
